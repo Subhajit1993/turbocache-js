@@ -29,20 +29,7 @@ TurboCache-JS is a production-ready caching abstraction layer that brings Spring
 ## 📦 Installation
 
 ```bash
-npm install turbocache-js keyv cacheable
-```
-
-### Optional Dependencies
-
-```bash
-# For Redis support
-npm install @keyv/redis ioredis
-
-# For compression
-npm install compression
-
-# For metrics
-npm install prom-client
+npm i @brewedbytes/turbocache-js
 ```
 
 ---
