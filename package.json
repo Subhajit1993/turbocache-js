@@ -1,6 +1,6 @@
 {
   "name": "@brewedbytes/turbocache-js",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "High-performance, intelligent caching library for TypeScript/NestJS microservices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,7 +22,17 @@
     "typescript",
     "decorator",
     "microservices",
-    "performance"
+    "performance",
+    "memory-cache",
+    "distributed-cache",
+    "cache-manager",
+    "node-cache",
+    "cache-decorator",
+    "ttl",
+    "lru",
+    "cache-strategy",
+    "invalidation",
+    "cache-warming"
   ],
   "author": "Platform Engineering Team",
   "license": "MIT",
