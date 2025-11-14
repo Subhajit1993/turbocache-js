@@ -1,6 +1,6 @@
 {
   "name": "@brewedbytes/turbocache-js",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "High-performance, intelligent caching library for TypeScript/NestJS microservices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
