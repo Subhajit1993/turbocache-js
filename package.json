@@ -1,6 +1,6 @@
 {
   "name": "@brewedbytes/turbocache-js",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "High-performance, intelligent caching library for TypeScript/NestJS microservices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Subhajit1993/turbocache-js"
   },
   "dependencies": {
     "cacheable": "^1.5.3",
